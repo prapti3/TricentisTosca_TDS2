@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\TDS2.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\TDS2\TDS2_Workbook\TDS2\Repository\TDS2.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1d5132-08f3-3707-92fd-2b3846c76e0c</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>e50d9eec-886c-42f6-be70-5bd2abbe52bd</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
